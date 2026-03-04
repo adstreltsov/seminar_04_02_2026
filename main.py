@@ -1,4 +1,5 @@
 def main():
+    # тут скоро будет много кода
     print("Hello, world")
 
 
